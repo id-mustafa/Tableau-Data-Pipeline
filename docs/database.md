@@ -14,7 +14,7 @@ sqlconnection = pymysql.connect(
     database=getenv('MYSQL_DATABASE')
 )
 
-## [System Design](../public/Tableau%20Data%20Pipeline%20Project.mwb)
+## System Design
 The system design was heavily influenced by the project's requirements. So to fully understand the schema, we should understand the project requirements below:
 
 * Workbook usage in last 15 months
